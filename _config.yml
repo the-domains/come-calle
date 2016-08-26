@@ -1,3 +1,4 @@
+layout_spectrum: 0.846864276798442
 typography_spectrum: 0.0759149466175586
 color:
   brandStrength: 0.9349345583468676
@@ -10,7 +11,4 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.846864276798442
 name: Come & Calle
-title: Come & Calle
-description: Street Food Art
